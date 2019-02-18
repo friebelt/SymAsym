@@ -11295,6 +11295,7 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 <sheet>
 <plain>
 <text x="66.04" y="109.22" size="1.778" layer="91">Tacho</text>
+<text x="25.4" y="119.38" size="1.778" layer="91">Fan control - needs to be testet</text>
 </plain>
 <instances>
 <instance part="KK1" gate="G$1" x="25.4" y="81.28" rot="R270"/>

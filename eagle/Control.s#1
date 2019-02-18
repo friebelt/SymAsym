@@ -11283,9 +11283,9 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 <part name="R2" library="resistor" deviceset="R-EU_" device="M1206"/>
 <part name="Q1" library="transistor-power" deviceset="BD437" device="" value="BD681"/>
 <part name="C1" library="resistor" deviceset="CPOL-EU" device="E3.5-10" value="220n"/>
-<part name="C2" library="resistor" deviceset="CPOL-EU" device="E3.5-10"/>
+<part name="C2" library="resistor" deviceset="CPOL-EU" device="E3.5-10" value="220n"/>
 <part name="C6" library="resistor" deviceset="C-EU" device="C1206" value="2,2n"/>
-<part name="L2" library="inductors" deviceset="DR125" device=""/>
+<part name="L2" library="inductors" deviceset="DR125" device="" value="47uH"/>
 <part name="P+1" library="supply1" deviceset="+12V" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
